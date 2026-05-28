@@ -262,5 +262,3 @@ with high classification accuracy.
 
 This project demonstrates how Support Vector Machine (SVM) can accurately classify breast cancer tumors using medical diagnostic features. It combines preprocessing, visualization, model training, and evaluation into a complete machine learning workflow.
 
-```
-```
